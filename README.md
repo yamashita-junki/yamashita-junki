@@ -1,12 +1,5 @@
 <div>
   <img
-    alt="Stats"
-    height="150px"
-    src="https://github-readme-stats.vercel.app/api?username=yamashita-junki&show_icons=true"
-  />
-</div>
-<div>
-  <img
     alt="Trophy"
     height="150px"
     src="https://github-profile-trophy.vercel.app/?username=yamashita-junki&column=8"
